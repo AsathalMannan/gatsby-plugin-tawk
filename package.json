@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-tawk.to",
   "description": "Gatsby plugin that adds tawk.to JS file to site",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Ajmal Hussain <ajmalhussainhy@gmail.com>",
   "repository": {
     "type": "git",
