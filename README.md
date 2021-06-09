@@ -37,6 +37,7 @@ module.exports = {
       resolve: `gatsby-plugin-tawk.to`,
       options: {
         tawkId: "YOUR_TAWK_ID",
+        tawkKey: "YOUR_TAWK_KEY",
         // get this from the tawk script widget
       },
     },
