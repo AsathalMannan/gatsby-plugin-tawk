@@ -39,6 +39,7 @@ module.exports = {
         tawkId: "YOUR_TAWK_ID",
         tawkKey: "YOUR_TAWK_KEY",
         // get this from the tawk script widget
+        // https://tawk.to/chat/YOUR_TAWK_ID/YOUR_TAWK_KEY
       },
     },
   ],
